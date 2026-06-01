@@ -12,7 +12,7 @@ This repository contains MATLAB scripts that implement and validate a Tensor Tra
 - `full_q_comparison.m`: main experiment at J=15, K=3.
 - `sample_size_barrier_ttsvd.m`: sample-size dependence of the pipeline.
 - `gu_toy_example_verify.m`: verification on Gu's J=5, K=2 toy example.
-- `regression_J15.m`, `bisection_J16.m`, `bisection_J18.m`: diagnostic scripts.
+- `regression_J15.m`: diagnostic script.
 
 ## Requirements
 
